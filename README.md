@@ -1,9 +1,9 @@
 # Tiramisu
-## Version 0.0.1 (Pre-release)
+`v0.0.1`
 Tiramisu is an open-source chat application.
 
 ### Requirements
-- Windows SDK/Visual Studio/Header files mentioned here.
+- Windows SDK/Visual Studio/Header files mentioned in it.
 - Basic TCP/IP port connection knowledge.
 - Basic compiling, executing and C++ knowledge.
 - Windows 10 or above. (Linux and other platforms not tested.)
@@ -18,6 +18,4 @@ After compiling, start with typing in Client's window, Both server and client ca
 Change IP/PORT to allow access from other devices. (Adding functionality later).
 
 
-> This is a basic beginner project, I created a community to not only help other newbie Winsock developers but also get help from experienced one. If you're anywhere from "I am interested" to "I am experienced", feel free to join!
-
-https://discord.gg/7ZFGRYxzbP
+> This is a basic beginner project, I created a community to not only help other newbie Winsock developers but also get help from experienced one. If you're anywhere from "I am interested" to "I am experienced", feel free to join the [Discord](https://discord.gg/7ZFGRYxzbP).
