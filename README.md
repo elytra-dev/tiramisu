@@ -19,4 +19,5 @@ Change IP/PORT to allow access from other devices. (Adding functionality later).
 
 
 > This is a basic beginner project, I created a community to not only help other newbie Winsock developers but also get help from experienced one. If you're anywhere from "I am interested" to "I am experienced", feel free to join!
+
 https://discord.gg/7ZFGRYxzbP
